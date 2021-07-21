@@ -1,4 +1,5 @@
-Copyright <year> <name> <email> @<github_username>
+/*
+Copyright 2017 Danny Nguyen <danny@keeb.io>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -12,3 +13,9 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+
+#pragma once
+
+// #define USE_I2C
+#define EE_HANDS
